@@ -30,13 +30,13 @@ Se você quiser mostrar estas informações em um display, veja como é fácil s
 <b>Potenciômetro:</b>
 Potenciômetro é um componente eletrônico que cria uma limitação para o fluxo de corrente elétrica que passa por ele, e essa limitação pode ser ajustada manualmente, podendo ser aumentada ou diminuída. Os potenciômetros e o resistores tem essa finalidade de limitar o fluxo de corrente elétrica em um circuito, a diferença é que o potenciômetro pode ter sua resistência ajustada e o resistor comum não pode pois ele possui um valor de resistência fixo.
 O potenciômetro comumente possui três terminais e um eixo giratório para ajuste da sua resistência, e normalmente são usado em controle de volumes de aparelhos de som, controle de posicionamento em controles de vídeo games, controle de brilho e contraste em telas LCD, etc.
-<br /><br /><img src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/pot.jpg">
+<br /><br /><img src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/pot.jpg"><br /><br />
  		 
 
 
 <b>Sensor de Temperatura e Umidade DHT11:</b>
 O Sensor de Umidade e Temperatura DHT11 é um sensor de temperatura e umidade que permite fazer leituras de temperaturas entre 0 a 50 Celsius e umidade entre 20 a 90%, muito usado para projetos com Arduino.
-<br /><br /><img src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/dht.jpg">
+<br /><br /><img src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/dht.jpg"><br /><br />
 <br /><b>Especificações:</b>
 – Modelo: DHT11
 – Faixa de medição de umidade: 20 a 90% UR
@@ -52,7 +52,7 @@ O Sensor de Umidade e Temperatura DHT11 é um sensor de temperatura e umidade qu
 <b>Sensor de Movimentp/ Presença – PIR:</b>
 O Sensor de Movimento PIR DYP-ME003 consegue detectar o movimento de objetos que estejam em uma área de até 7 metros! Caso algo ou alguém se movimentar nesta área o pino de alarme é ativo.
 <br /><br />
-<img width="300px" src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/pir.jpg">
+<img width="300px" src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/pir.jpg"><br /><br />
 É possível ajustar a duração do tempo de espera para estabilização do PIR através do potenciômetro amarelo em baixo do sensor bem como sua sensibilidade. A estabilização pode variar entre 5-200 seg.
 
 <b>Especificações:</b>
@@ -80,12 +80,12 @@ O LDR, sigla em inglês de Light-Dependent Resistor, que significa resistor depe
  LDR – sensor de luminosidade
 O LDR é constituído de um semicondutor de alta resistência, que ao receber uma grande quantidade de fótons oriundos da luz incidente, ele absorve elétrons que melhoram sua condutibilidade, reduzindo assim sua resistência.
 Dessa forma, esse semicondutor pode assumir resistências na ordem de mega Ohm no escuro e resistência na ordem de poucas centenas quando exposto a luz.
-<img width="300px" src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/ldr.jpg">
+<br /><br /><img width="300px" src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/ldr.jpg"><br /><br />
 
 <b>Display LCD 16X2:</b>
 O Display LCD 16×2 Backlight Azul. São 16 colunas por 2 linhas, backlight azul e escrita branca. Possui o controlador HD44780 usado em toda indústria de LCD’s como base de interface.
 A interface com Arduino é muito simples, sendo basicamente 4 pinos de dados e 2 de controle. 
-<img width="300px" src = "https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/lcd.jpg">
+<br /><br /><img width="300px" src = "https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/lcd.jpg"><br /><br />
 <b>Especificações:</b>
 – Cor backlight: Azul
 – Cor escrita: Branca
@@ -102,7 +102,7 @@ A interface com Arduino é muito simples, sendo basicamente 4 pinos de dados e 2
 <b>Protoboard 830 Pontos:</b>
 A protoboard, também conhecida como breadboard, é utilizada para desenvolvimento de circuitos de teste ou protótipo.
 
- <img src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/proto.jpg">
+<br /><img src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/proto.jpg"><br />
 
 <b>Características:</b>
 - Marca: Minipa MP-830
@@ -120,7 +120,7 @@ A protoboard, também conhecida como breadboard, é utilizada para desenvolvimen
 
 <b>Arduino Uno R3 + Cabo USB:</b>
 O Arduino Uno R3 é a placa Arduino mais vendida e usada atualmente. Costuma ser a primeira opção de muitos, pois apresenta uma ótima quantidade de portas disponíveis e grande compatibilidade com os Shields Arduino.
-<img src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/arduino.jpg">
+<br /><br /><img src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/arduino.jpg"><br />
 
 <b> Especificações Uno R3:</b>
 – Microcontrolador: ATmega328
@@ -137,7 +137,7 @@ O Arduino Uno R3 é a placa Arduino mais vendida e usada atualmente. Costuma ser
 
 <b>Rele de 2 Canais/ Entradas:</b>
 Este Módulo Relé 5V com 2 canais é a alternativa perfeita pra quem busca um módulo compacto e de qualidade para projetos com Arduino e outros controladores. Com este módulo você consegue fazer acionamento de cargas de 200V AC, como lâmpadas, equipamentos eletrônicos, motores, ou usá-lo para fazer um isolamento entre um circuito e outro.
-<img src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/rele.jpg">
+<br /><br /><img src ="https://github.com/Taina-Correia/Projeto-Arquitetura/blob/master/rele.jpg"><br />
 
 <b>Especificações:<b/>
 <ul><li>– Modelo: SRD-05VDC-SL-C</li> 
